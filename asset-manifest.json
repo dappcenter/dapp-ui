@@ -1,10 +1,10 @@
 {
-  "main.css": "/dapp-ui/static/css/main.27ef1fdf.chunk.css",
-  "main.js": "/dapp-ui/static/js/main.d3745d39.chunk.js",
+  "main.css": "/dapp-ui/static/css/main.f4d16bfc.chunk.css",
+  "main.js": "/dapp-ui/static/js/main.bf19d5a1.chunk.js",
   "runtime~main.js": "/dapp-ui/static/js/runtime~main.f682bbe3.js",
   "static/css/2.f8a7ed0e.chunk.css": "/dapp-ui/static/css/2.f8a7ed0e.chunk.css",
-  "static/js/2.9cf1a227.chunk.js": "/dapp-ui/static/js/2.9cf1a227.chunk.js",
+  "static/js/2.a7b5148d.chunk.js": "/dapp-ui/static/js/2.a7b5148d.chunk.js",
   "index.html": "/dapp-ui/index.html",
-  "precache-manifest.e506615e435ed54f0554a490d18fc3e0.js": "/dapp-ui/precache-manifest.e506615e435ed54f0554a490d18fc3e0.js",
+  "precache-manifest.cc6e6a7d575c6cbc689506271e36a57d.js": "/dapp-ui/precache-manifest.cc6e6a7d575c6cbc689506271e36a57d.js",
   "service-worker.js": "/dapp-ui/service-worker.js"
 }
