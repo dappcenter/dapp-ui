@@ -1,10 +1,35 @@
 {
-  "main.css": "/dapp-ui/static/css/main.f4d16bfc.chunk.css",
-  "main.js": "/dapp-ui/static/js/main.bf19d5a1.chunk.js",
-  "runtime~main.js": "/dapp-ui/static/js/runtime~main.f682bbe3.js",
-  "static/css/2.f8a7ed0e.chunk.css": "/dapp-ui/static/css/2.f8a7ed0e.chunk.css",
-  "static/js/2.a7b5148d.chunk.js": "/dapp-ui/static/js/2.a7b5148d.chunk.js",
-  "index.html": "/dapp-ui/index.html",
-  "precache-manifest.cc6e6a7d575c6cbc689506271e36a57d.js": "/dapp-ui/precache-manifest.cc6e6a7d575c6cbc689506271e36a57d.js",
-  "service-worker.js": "/dapp-ui/service-worker.js"
+  "files": {
+    "main.css": "/dapp-ui/static/css/main.5ac4e76f.chunk.css",
+    "main.js": "/dapp-ui/static/js/main.49c062b2.chunk.js",
+    "main.js.map": "/dapp-ui/static/js/main.49c062b2.chunk.js.map",
+    "runtime-main.js": "/dapp-ui/static/js/runtime-main.0f93cffc.js",
+    "runtime-main.js.map": "/dapp-ui/static/js/runtime-main.0f93cffc.js.map",
+    "static/css/2.16a9bf68.chunk.css": "/dapp-ui/static/css/2.16a9bf68.chunk.css",
+    "static/js/2.7cdbc2a3.chunk.js": "/dapp-ui/static/js/2.7cdbc2a3.chunk.js",
+    "static/js/2.7cdbc2a3.chunk.js.map": "/dapp-ui/static/js/2.7cdbc2a3.chunk.js.map",
+    "index.html": "/dapp-ui/index.html",
+    "precache-manifest.e6bebacfbf418adee50e06857e692ae3.js": "/dapp-ui/precache-manifest.e6bebacfbf418adee50e06857e692ae3.js",
+    "service-worker.js": "/dapp-ui/service-worker.js",
+    "static/css/2.16a9bf68.chunk.css.map": "/dapp-ui/static/css/2.16a9bf68.chunk.css.map",
+    "static/css/main.5ac4e76f.chunk.css.map": "/dapp-ui/static/css/main.5ac4e76f.chunk.css.map",
+    "static/media/Vector.svg": "/dapp-ui/static/media/Vector.fcab01a0.svg",
+    "static/media/attach.svg": "/dapp-ui/static/media/attach.14a235da.svg",
+    "static/media/attachActive.svg": "/dapp-ui/static/media/attachActive.40e357dd.svg",
+    "static/media/bg.svg": "/dapp-ui/static/media/bg.b240ebe6.svg",
+    "static/media/close.svg": "/dapp-ui/static/media/close.4fa547fb.svg",
+    "static/media/err.svg": "/dapp-ui/static/media/err.61f0ba27.svg",
+    "static/media/info.svg": "/dapp-ui/static/media/info.27bf4c6d.svg",
+    "static/media/logo.svg": "/dapp-ui/static/media/logo.bfdda97d.svg",
+    "static/media/succ.svg": "/dapp-ui/static/media/succ.f54b93e7.svg",
+    "static/media/warning.svg": "/dapp-ui/static/media/warning.1be59075.svg",
+    "static/media/wifi.svg": "/dapp-ui/static/media/wifi.904807ea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f93cffc.js",
+    "static/css/2.16a9bf68.chunk.css",
+    "static/js/2.7cdbc2a3.chunk.js",
+    "static/css/main.5ac4e76f.chunk.css",
+    "static/js/main.49c062b2.chunk.js"
+  ]
 }
