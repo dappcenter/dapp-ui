@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31f0be0b536d9f17d9da7a58f5a1d6eb",
+    "revision": "e5fc01c11e03bd3d5590ed3541149e79",
     "url": "/dapp-ui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dapp-ui/static/css/2.16a9bf68.chunk.css"
   },
   {
-    "revision": "66a728a288dc3e1b3829",
+    "revision": "b2e2d057c6e6cdd74df2",
     "url": "/dapp-ui/static/css/main.5ac4e76f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dapp-ui/static/js/2.7cdbc2a3.chunk.js"
   },
   {
-    "revision": "66a728a288dc3e1b3829",
-    "url": "/dapp-ui/static/js/main.63eecefc.chunk.js"
+    "revision": "b2e2d057c6e6cdd74df2",
+    "url": "/dapp-ui/static/js/main.88e0defa.chunk.js"
   },
   {
     "revision": "16bef18fc3149ecac6dd",
